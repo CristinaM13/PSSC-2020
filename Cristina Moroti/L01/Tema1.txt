@@ -1,0 +1,31 @@
+Functionalitati Stackoverflow:
+
+Prima functionalitate care se observa la Stackoverflow e ca are 2 moduri, Enterprise and Basic. Modul Enterprise este
+destinat companiilor, ajutand echipele sa comunice si stocand informatiile intr-un cloud unde alte persoane nu au acces.
+Modul Basic este utilizat de obicei pentru a pune intrebari in legatura cu anumite probleme care apar in tehnologie, mai
+ales coding. Un user isi seteaza domeniile de interes cand isi creeaza contul si in functie de preferinte ii sunt recomandate
+anumite intrebari. Aceste preferinte sunt reprezentate de tag-uri care trebuie puse de ficare data cand cineva posteaza o
+intrebare. Userul poate adauga intrebari, poate raspunde la intrebari, poate vota intrebarile care l-au ajutat sau 
+raspunsurile care l-au ajutat, poate marca un raspuns ca fiind solutia cea mai buna pentru problema lui,poate castiga privilegii,
+insigne si o reputatie in functie de cat e de activ pe stack, cati oameni impacteaza sau ajuta etc. De asemenea Stackoverflow mai are si 
+optiunea de a cauta joburi si de a aplica la joburi, de a gasi companii si a vedea joburile disponibile in compania respectiva.
+Userul poate cauta intrebari in functie de tag-urile acestora sau printr-un search pe Google dupa problema pe care o intampina.
+Intrebarile sunt si ele sortate in functie de cat de frecvente sunt, cat de noi, daca au raspunsuri, daca nu au raspunsuri
+si acest lucru actioneaza ca un filtru atunci cand te intereseaza doar anumite lucruri. De asemenea, exista si o functionalitate
+care te ajuta sa gasesti useri sau sa cauti in userii activi pe Stackoverflow, sa le vizualizezi profilul etc. Userul poate sa 
+selecteze taguri pe care sa le ignore. Mai exista si un bloc al Stackoverflow cu diferite postari si un forum, Stack Exchange
+unde sunt intrebari si raspunsuri si unde utilizatorul are cont automat cand isi face cont pe Stackoverflow. Mai are 2 optiuni,
+Advertising care e folosit pentru promovarea unui produs sau business si Talent care ajuta companiile sa isi gaseasca angajati.
+
+
+Cerinte aplicatie:
+
+Realizati o aplicatie care sa permita adaugarea unor carti si a comentariilor lor literare. Utilizatorul va putea adauga un comentariu
+la cartea dorita, va putea comenta la recenzile celorlalti utilizatori, aprecia recenzii de la alti utilizatori. Va exista o 
+sectiune cu intrebari despre carti in care utilizatorul poate raspunde sau pune intrebari. Cartile vor fi etichetate in 
+functie de gen si va exista posibilitatea de a cauta carti in functie de aceste etichete. Autorii au posibilitatea de a-si 
+promova cartile prin organizarea de concursuri, de asemenea, fiecare autor va avea cartile propri afisate in profil.
+In functie de cate recenzii folositoare a postat un utilizator, acesta va castiga medalii, dar va urca si in topul userilor
+cu cele mai bune recenzii. Pe pagina fiecarei carti va exista un link catre locul din care aceasta poate fi cumparata. Pe 
+profilul fiecarui utilizator vor fi afisate toate cartile la care a adaugat recenzii, de asemenea, va exista si o functie 
+de cautare in care poti cauta alti utilizatori.
