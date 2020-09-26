@@ -1,0 +1,20 @@
+Cerinte aplicatie:
+
+Realizati o aplicatie care sa ofere 2 moduri de utilizare, Enterprise and Basic. Modul Enterprise trebuie sa fie
+destinat companiilor, ajutand echipele sa comunice si stocand informatiile intr-un cloud unde alte persoane nu au acces.
+Modul Basic va fi utilizat de obicei pentru a pune intrebari de catre useri in legatura cu anumite probleme care apar in tehnologie, mai
+ales coding. Un user trebuie sa aiba posibilitatea de a-si seteaza domeniile de interes cand isi creeaza contul si in functie de preferinte 
+ii sunt recomandate anumite intrebari care au fost puse a priori de catre alti useri. 
+Aceste preferinte sunt reprezentate de tag-uri care trebuie puse de utilizatorde ficare data cand acesta posteaza o
+intrebare. Userul poate adauga intrebari, poate raspunde la intrebari, poate vota intrebarile care l-au ajutat sau 
+raspunsurile care l-au ajutat, poate marca un raspuns ca fiind solutia cea mai buna pentru problema lui, poate castiga privilegii,
+insigne si o reputatie in functie de cat e de activ pe aplicatie, cati oameni impacteaza sau ajuta etc. De asemenea aplicatia 
+trebuie sa aiba si optiunea de a cauta joburi si de a aplica la joburi, de a gasi companii si a vedea joburile disponibile in compania respectiva.
+Userul trebuie sa aiba posibilitatea de a cauta intrebari in functie de tag-urile acestora.
+Intrebarile vor fi si ele sortate in functie de cat de frecvente sunt, cat de noi, daca au raspunsuri, daca nu au raspunsuri
+si acest lucru actioneaza ca un filtru atunci cand userul este interesat doar de anumite lucruri. De asemenea, sa se implementeza
+o functionalizate care ajuta un user sa gaseseasca alti useri sau sa caute in userii activi pe aplicatie, sa le vizualizeze profilul etc. 
+Userul poate sa selecteze taguri pe care sa le ignore. Pe langa cele de mai sus, utilizatorul trebuie sa aiba acces si la alte 2 optiuni,
+Advertising care e folosit pentru promovarea unui produs sau business al userului si Talent care ajuta companiile (in caz ca userul are o companie)
+sa isi gaseasca angajati.
+
