@@ -1,0 +1,20 @@
+Events:
+
+	1. Cerere de creare a unui cont (Basic sau Bussiness)
+	2. Stergerea unui cont
+	3. Alegerea tag-urilor
+	4. Postarea intrebarilor
+	5. Modificarea unei intrebari
+	6. Stergerea unei intrebari
+	7. Oferirea de raspunsuri la alte intrebari
+	8. Aplicarea la job-uri
+	9. Primire notificari
+	
+Context:
+
+	1. Account context
+	2. Questions context
+	3. Answering context
+	4. Job searching context
+	
+	
