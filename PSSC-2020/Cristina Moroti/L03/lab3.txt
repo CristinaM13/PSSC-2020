@@ -1,0 +1,29 @@
+Workflow "Ask question"
+	Input: Question form
+	Output: Question posted
+	
+	step 1
+	Do validate question form
+		if question form is not valid
+			then stop
+	step 2
+		send confirmation e-mail about the question being posted
+	step 3
+		return "Question posted" event
+	
+	Substep Validate question form
+		input: Unvalidated question
+		output: Validated question
+		dependencies: category, formatting, log in
+
+			check if the user is logged in
+			check if the category is filled and correct
+			check if the question has code in it and if the code is formatted
+			check if the question contains foul language
+			check if tags are selected for the question
+			
+			if all the validations pass
+				then return question posted
+			else
+				return question rejected
+		
