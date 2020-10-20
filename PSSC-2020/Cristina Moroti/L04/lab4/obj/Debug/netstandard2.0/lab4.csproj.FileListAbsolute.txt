@@ -1,0 +1,5 @@
+C:\Users\Cristina\source\repos\lab4\lab4\bin\Debug\netstandard2.0\lab4.deps.json
+C:\Users\Cristina\source\repos\lab4\lab4\bin\Debug\netstandard2.0\lab4.dll
+C:\Users\Cristina\source\repos\lab4\lab4\obj\Debug\netstandard2.0\lab4.csprojAssemblyReference.cache
+C:\Users\Cristina\source\repos\lab4\lab4\obj\Debug\netstandard2.0\lab4.AssemblyInfoInputs.cache
+C:\Users\Cristina\source\repos\lab4\lab4\obj\Debug\netstandard2.0\lab4.AssemblyInfo.cs
