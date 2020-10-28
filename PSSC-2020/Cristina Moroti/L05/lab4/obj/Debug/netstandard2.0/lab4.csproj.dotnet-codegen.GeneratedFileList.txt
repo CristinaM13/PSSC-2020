@@ -1,0 +1,7 @@
+obj\Debug\netstandard2.0\AddQuestionCmd.odE2cM8g.generated.cs
+obj\Debug\netstandard2.0\AddQuestionResult.BxbTsYdl.generated.cs
+obj\Debug\netstandard2.0\PublishedQuestion.DGAMDNdC.generated.cs
+obj\Debug\netstandard2.0\QuestionAsked.4kn6TOmT.generated.cs
+obj\Debug\netstandard2.0\Vote.0z1t8kZY.generated.cs
+obj\Debug\netstandard2.0\VoteEnum.23ef0vFI.generated.cs
+obj\Debug\netstandard2.0\Class1.x2KskaUk.generated.cs
